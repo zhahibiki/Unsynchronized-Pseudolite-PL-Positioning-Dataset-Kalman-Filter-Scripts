@@ -1,0 +1,2 @@
+# Unsynchronized-Pseudolite-PL-Positioning-Dataset-Kalman-Filter-Scripts
+This repository provides public-release datasets and reference Kalman filter (KF/EKF) scripts for reproducing the vehicle-borne and UAV-borne positioning results in our manuscript. The released data are fully anonymized and are organized to allow reviewers to run the scripts end-to-end and verify the reported positioning performance.
